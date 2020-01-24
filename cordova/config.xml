@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="median.mobitaurus" version="1.0.0">
+  <name>Mobitaurus</name>
+  <description>
+    Checkmk Mobile
+  </description>
+  <author email="dominik.glueck@twl-kom.de" href="https://www.twl-kom.de">
+    TWL-KOM GmbH
+  </author>
+</widget>
