@@ -1,8 +1,8 @@
 {
-  "main": "src/mobitaurus.js",
   "dependencies": {
-    "tabris": "^3.0.0"
-  }
+    "tabris": ">=3.0.0"
+ },
+  "main": "src/mobitaurus.js",
   "scripts": {
     "test": "eslint .",
     "start": "tabris serve -a"
