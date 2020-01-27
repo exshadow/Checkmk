@@ -1,0 +1,10 @@
+{
+  "main": "src/mobitaurus.js",
+  "dependencies": {
+    "tabris": "^3.0.0"
+  }
+  "scripts": {
+    "test": "eslint .",
+    "start": "tabris serve -a"
+  }
+}

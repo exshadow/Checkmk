@@ -1,0 +1,5 @@
+.eslintrc
+node_modules/**/*.d.ts
+node_modules/tabris/ClientMock.js
+.git/
+build/
