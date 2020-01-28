@@ -5,7 +5,7 @@ var cmk = new tabris_1.WebView({
     bottom: '#toolbar',
     left: 0,
     right: 0,
-    url: "https://172.16.255.222/monitoring/check_mk/"
+    url: "https://checkmk.median-kliniken.de/monitoring/check_mk/"
 })
     .on('canGoBackChanged', function () { return console.log('canGoBackChanged triggered '); })
     .on('canGoForwardChanged', function () { return console.log('canGoForwardChanged triggered'); })
