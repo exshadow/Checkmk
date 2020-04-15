@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="median.mobitaurus" version="0.1.0">
+<widget id="median.mobitaurus" version="0.2.0">
   <name>Mobitaurus</name>
   <description>
     Checkmk MEDIAN Mobile
@@ -7,7 +7,6 @@
   <author email="dominik.glueck@twl-kom.de">
     Dominik.Glück
   </author>
-  <icon src="res/icon.png>
-  </icon>
+  <icon src="res/icon2.png></icon>
   <preference name="EnableDeveloperConsole" value="false" />
 </widget>
