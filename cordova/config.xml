@@ -7,5 +7,7 @@
   <author email="dominik.glueck@twl-kom.de">
     Dominik.Glück
   </author>
+  <icon src="res/icon.png>
+  </icon>
   <preference name="EnableDeveloperConsole" value="false" />
 </widget>
