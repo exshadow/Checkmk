@@ -15,6 +15,7 @@
         <icon src="res/android/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi"/>
         <icon src="res/android/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi"/>
   </platform>
+  
   <platform name="ios">
         <!-- iOS 8.0+ -->
         <!-- iPhone 6 Plus  -->
@@ -46,6 +47,7 @@
         <!-- iPad Pro -->
         <icon src="res/ios/AppIcon.appiconset/Icon-App-83.5@2x.png" width="167" height="167" />
   </platform>
+  
   <preference name="EnableDeveloperConsole" value="false" />
 </widget>
 <plugin name="tabris-plugin-firebase" spec="3.x" />
