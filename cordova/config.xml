@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="median.mobitaurus" version="0.3.0">
+<widget id="median.mobitaurus" version="0.1.0">
   <name>Mobitaurus</name>
   <description>
     Checkmk MEDIAN Mobile
