@@ -18,33 +18,33 @@
   <platform name="ios">
         <!-- iOS 8.0+ -->
         <!-- iPhone 6 Plus  -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App60@3x.png" width="180" height="180" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-60@3x.png" width="180" height="180" />
         <!-- iOS 7.0+ -->
         <!-- iPhone / iPod Touch  -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App60.png" width="60" height="60" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-App60@2x.png" width="120" height="120" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-60.png" width="60" height="60" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-60@2x.png" width="120" height="120" />
         <!-- iPad -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App76.png" width="76" height="76" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-App76@2x.png" width="152" height="152" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-76.png" width="76" height="76" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-76@2x.png" width="152" height="152" />
         <!-- Spotlight Icon -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App40.png" width="40" height="40" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-App40@2x.png" width="80" height="80" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-40.png" width="40" height="40" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-40@2x.png" width="80" height="80" />
         <!-- iOS 6.1 -->
         <!-- iPhone / iPod Touch -->
         <!-- iPad -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App72.png" width="72" height="72" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-App72@2x.png" width="144" height="144" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-72.png" width="72" height="72" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-72@2x.png" width="144" height="144" />
         <!-- iPad Pro -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App167.png" width="167" height="167" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-167.png" width="167" height="167" />
         <!-- iPhone Spotlight and Settings Icon -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-Appsmall.png" width="29" height="29" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-Appsmall@2x.png" width="58" height="58" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-Appsmall@3x.png" width="87" height="87" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-small.png" width="29" height="29" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-small@2x.png" width="58" height="58" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-small@3x.png" width="87" height="87" />
         <!-- iPad Spotlight and Settings Icon -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App50.png" width="50" height="50" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-App50@2x.png" width="100" height="100" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-50.png" width="50" height="50" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-50@2x.png" width="100" height="100" />
         <!-- iPad Pro -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-App83.5@2x.png" width="167" height="167" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-App-83.5@2x.png" width="167" height="167" />
   </platform>
   <preference name="EnableDeveloperConsole" value="false" />
 </widget>
