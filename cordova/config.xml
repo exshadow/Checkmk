@@ -29,11 +29,9 @@
         <!-- Spotlight Icon -->
         <icon src="res/ios/AppIcon.appiconset/Icon-Icon-App-40x40.png" width="40" height="40" />
         <icon src="res/ios/AppIcon.appiconset/Icon-Icon-App-40x40@2x.png" width="80" height="80" />
+        <icon src="res/ios/AppIcon.appiconset/Icon-Icon-App-40x40@3x.png" width="120" height="120" />
         <!-- iOS 6.1 -->
         <!-- iPhone / iPod Touch -->
-        <!-- iPad -->
-        <icon src="res/ios/AppIcon.appiconset/Icon-Icon-App-72x72.png" width="72" height="72" />
-        <icon src="res/ios/AppIcon.appiconset/Icon-Icon-App-72x72@2x.png" width="144" height="144" />
         <!-- iPad Pro -->
         <icon src="res/ios/AppIcon.appiconset/Icon-Icon-App-83.5x83.5@2x.png" width="167" height="167" />
   </platform>
