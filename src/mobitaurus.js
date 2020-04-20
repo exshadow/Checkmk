@@ -1,7 +1,7 @@
 exports.__esModule = true;
 var tabris_1 = require("tabris");
 var cmk = new tabris_1.WebView({
-    top: 10,
+    top: 0,
     bottom: '#toolbar',
     left: 0,
     right: 0,
